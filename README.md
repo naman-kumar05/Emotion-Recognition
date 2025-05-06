@@ -19,8 +19,6 @@ Initial Setup:
 
 
 
-Clone the repository: Execute git clone https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/.
-
 
 
 
